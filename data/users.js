@@ -1,232 +1,186 @@
 export const users = [
     {
         "id": 1,
-        "name": "Leanne Graham",
-        "username": "Bret",
-        "email": "Sincere@april.biz",
+        "name": "Mark Antony",
+        "username": "markantony",
+        "email": "mark.antony@company.biz",
+        "photo": "images/users/1.jpeg",
         "address": {
-            "street": "Kulas Light",
-            "suite": "Apt. 556",
-            "city": "Gwenborough",
-            "zipcode": "92998-3874",
+            "street": "John Street",
+            "suite": "Apt. 516",
+            "city": "Bangalore",
+            "zip": "500001",
             "geo": {
-                "lat": "-37.3159",
-                "lng": "81.1496"
+                "lng": "77.5946E",
+                "lat": "12.9716N"
             }
         },
-        "phone": "1-770-736-8031 x56442",
-        "website": "hildegard.org",
+        "phone": "9876543210",
+        "website": "meetmarkantony.com",
         "company": {
-            "name": "Romaguera-Crona",
-            "catchPhrase": "Multi-layered client-server neural-net",
-            "bs": "harness real-time e-markets"
+            "name": "ABC Company",
+            "location": "Bangalore"
         }
     },
     {
         "id": 2,
-        "name": "Ervin Howell",
-        "username": "Antonette",
-        "email": "Shanna@melissa.tv",
+        "name": "Chandrasekar Azad",
+        "username": "chandrasekara",
+        "email": "chandrasekar.azad@organization.biz",
+        "photo": "images/users/2.jpeg",
         "address": {
-            "street": "Victor Plains",
-            "suite": "Suite 879",
-            "city": "Wisokyburgh",
-            "zipcode": "90566-7771",
+            "street": "Nehru Nagar",
+            "suite": "123 North Lane",
+            "city": "Mysore",
+            "zip": "550001",
             "geo": {
-                "lat": "-43.9509",
-                "lng": "-34.4618"
+                "lng": "76.6394E",
+                "lat": "12.2958N"
             }
         },
-        "phone": "010-692-6593 x09125",
-        "website": "anastasia.net",
+        "phone": "9876533211",
+        "website": "",
         "company": {
-            "name": "Deckow-Crist",
-            "catchPhrase": "Proactive didactic contingency",
-            "bs": "synergize scalable supply-chains"
+            "name": "XYZ Corporation",
+            "location": "Mumbai"
         }
     },
     {
         "id": 3,
-        "name": "Clementine Bauch",
-        "username": "Samantha",
-        "email": "Nathan@yesenia.net",
+        "name": "Rajeev Singh",
+        "username": "rajeevsingh",
+        "email": "rajeevsingh@gmail.com",
+        "photo": "",
         "address": {
-            "street": "Douglas Extension",
-            "suite": "Suite 847",
-            "city": "McKenziehaven",
-            "zipcode": "59590-4157",
+            "street": "Patan Salai",
+            "suite": "West Hill Apartments 45",
+            "city": "Jaipur",
+            "zip": "302029",
             "geo": {
-                "lat": "-68.6102",
-                "lng": "-47.0653"
+                "lat": "26.9124N",
+                "lng": "75.7873E"
             }
         },
-        "phone": "1-463-123-4447",
-        "website": "ramiro.info",
+        "phone": "7828837723",
+        "website": "images/users/3.jpeg",
         "company": {
-            "name": "Romaguera-Jacobson",
-            "catchPhrase": "Face to face bifurcated interface",
-            "bs": "e-enable strategic applications"
+            "name": "XYZ Corporation",
+            "location": "Mumbai"
         }
     },
     {
         "id": 4,
-        "name": "Patricia Lebsack",
-        "username": "Karianne",
-        "email": "Julianne.OConner@kory.org",
+        "name": "Shilpa Tagoor",
+        "username": "shilpatagoor",
+        "email": "shilpa.tagoor@company.com",
+        "photo": "images/users/4.jpeg",
         "address": {
-            "street": "Hoeger Mall",
-            "suite": "Apt. 692",
-            "city": "South Elvis",
-            "zipcode": "53919-4257",
+            "street": "Pos Gardens",
+            "suite": "Gandhi Road, Apartments 125",
+            "city": "Pune",
+            "zip": "411002",
             "geo": {
-                "lat": "29.4572",
-                "lng": "-164.2990"
+                "lng": "73.8567E",
+                "lat": "18.5204N"
             }
         },
-        "phone": "493-170-9623 x156",
-        "website": "kale.biz",
+        "phone": "7898837723",
+        "website": "",
         "company": {
-            "name": "Robel-Corkery",
-            "catchPhrase": "Multi-tiered zero tolerance productivity",
-            "bs": "transition cutting-edge web services"
+            "name": "IBBMM Corporation",
+            "location": "Nasik"
         }
     },
     {
         "id": 5,
-        "name": "Chelsey Dietrich",
-        "username": "Kamren",
-        "email": "Lucio_Hettinger@annie.ca",
+        "name": "Aradhana Shri",
+        "username": "aradhanashri",
+        "email": "aradhana.shri@company.com",
+        "photo": "images/users/5.jpeg",
         "address": {
-            "street": "Skiles Walks",
-            "suite": "Suite 351",
-            "city": "Roscoeview",
-            "zipcode": "33263",
+            "street": "Vikram Sarabhai Street",
+            "suite": "Ustad Hotel Road, Apartments 525",
+            "city": "Kochi",
+            "zip": "682001",
             "geo": {
-                "lat": "-31.8129",
-                "lng": "62.5342"
+                "lng": "76.2673E",
+                "lat": "9.9312N"
             }
         },
-        "phone": "(254)954-1289",
-        "website": "demarco.info",
+        "phone": "6628837713",
+        "website": "",
         "company": {
-            "name": "Keebler LLC",
-            "catchPhrase": "User-centric fault-tolerant solution",
-            "bs": "revolutionize end-to-end systems"
+            "name": "TCSS Technology Solution",
+            "location": "Kochi"
         }
     },
     {
         "id": 6,
-        "name": "Mrs. Dennis Schulist",
-        "username": "Leopoldo_Corkery",
-        "email": "Karley_Dach@jasper.info",
+        "name": "Aamil Mohammed",
+        "username": "aamilmohammed",
+        "email": "aamil.md@techno.com",
+        "photo": "images/users/6.jpeg",
         "address": {
-            "street": "Norberto Crossing",
-            "suite": "Apt. 950",
-            "city": "South Christy",
-            "zipcode": "23505-1337",
+            "street": "Anna Street",
+            "suite": "Mount Round, Apartments 1525",
+            "city": "Chennai",
+            "zip": "600004",
             "geo": {
-                "lat": "-71.4197",
-                "lng": "71.7478"
+                "lng": "80.2707E",
+                "lat": "13.0827N"
             }
         },
-        "phone": "1-477-935-8478 x6430",
-        "website": "ola.org",
+        "phone": "9938837713",
+        "website": "",
         "company": {
-            "name": "Considine-Lockman",
-            "catchPhrase": "Synchronised bottom-line interface",
-            "bs": "e-enable innovative applications"
+            "name": "Silicon Technology Solution",
+            "location": "Chennai"
         }
     },
     {
         "id": 7,
-        "name": "Kurtis Weissnat",
-        "username": "Elwyn.Skiles",
-        "email": "Telly.Hoeger@billy.biz",
+        "name": "Saradha Matthew",
+        "username": "saradhamatthew",
+        "email": "saradhamatthew@millka.com",
+        "photo": "images/users/7.jpeg",
         "address": {
-            "street": "Rex Trail",
-            "suite": "Suite 280",
-            "city": "Howemouth",
-            "zipcode": "58804-1099",
+            "street": "Tagore Road",
+            "suite": "Victoria Palace, Apartments 510",
+            "city": "Kolkata",
+            "zip": "700004",
             "geo": {
-                "lat": "24.8918",
-                "lng": "21.8984"
+                "lng": "88.3639E",
+                "lat": "22.5726N"
             }
         },
-        "phone": "210.067.6132",
-        "website": "elvis.io",
+        "phone": "8928312347",
+        "website": "millkairon.com",
         "company": {
-            "name": "Johns Group",
-            "catchPhrase": "Configurable multimedia task-force",
-            "bs": "generate enterprise e-tailers"
+            "name": "Millka Iron Steel Industries",
+            "location": "Kolkata"
         }
     },
     {
         "id": 8,
-        "name": "Nicholas Runolfsdottir V",
-        "username": "Maxime_Nienow",
-        "email": "Sherwood@rosamond.me",
+        "name": "Tony Jacob",
+        "username": "tonyjacob",
+        "email": "tonyjacob@millka.com",
+        "photo": "images/users/8.jpeg",
         "address": {
-            "street": "Ellsworth Summit",
-            "suite": "Suite 729",
-            "city": "Aliyaview",
-            "zipcode": "45169",
+            "street": "North East Road",
+            "suite": "Guwahati Flowers, House 1283",
+            "city": "Dispur",
+            "zip": "781005",
             "geo": {
-                "lat": "-14.3990",
-                "lng": "-120.7677"
+                "lng": "91.7898E",
+                "lat": "26.1433N"
             }
         },
-        "phone": "586.493.6943 x140",
-        "website": "jacynthe.com",
+        "phone": "7837462374",
+        "website": "millkairon.com",
         "company": {
-            "name": "Abernathy Group",
-            "catchPhrase": "Implemented secondary concept",
-            "bs": "e-enable extensible e-tailers"
-        }
-    },
-    {
-        "id": 9,
-        "name": "Glenna Reichert",
-        "username": "Delphine",
-        "email": "Chaim_McDermott@dana.io",
-        "address": {
-            "street": "Dayna Park",
-            "suite": "Suite 449",
-            "city": "Bartholomebury",
-            "zipcode": "76495-3109",
-            "geo": {
-                "lat": "24.6463",
-                "lng": "-168.8889"
-            }
-        },
-        "phone": "(775)976-6794 x41206",
-        "website": "conrad.com",
-        "company": {
-            "name": "Yost and Sons",
-            "catchPhrase": "Switchable contextually-based project",
-            "bs": "aggregate real-time technologies"
-        }
-    },
-    {
-        "id": 10,
-        "name": "Clementina DuBuque",
-        "username": "Moriah.Stanton",
-        "email": "Rey.Padberg@karina.biz",
-        "address": {
-            "street": "Kattie Turnpike",
-            "suite": "Suite 198",
-            "city": "Lebsackbury",
-            "zipcode": "31428-2261",
-            "geo": {
-                "lat": "-38.2386",
-                "lng": "57.2232"
-            }
-        },
-        "phone": "024-648-3804",
-        "website": "ambrose.net",
-        "company": {
-            "name": "Hoeger LLC",
-            "catchPhrase": "Centralized empowering task-force",
-            "bs": "target end-to-end models"
+            "name": "Millka Iron Steel Industries",
+            "location": "Kolkata"
         }
     }
 ]
